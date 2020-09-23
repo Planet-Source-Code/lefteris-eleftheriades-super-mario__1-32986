@@ -1,0 +1,22 @@
+[General]
+Sprites="3"
+Picture="C:\WINDOWS\Desktop\My Programs\Super Mario\AntN.bmp"
+Mask="C:\WINDOWS\Desktop\My Programs\Super Mario\AntNMask.bmp"
+
+[Sprite1]
+Left="0"
+Top="0"
+Width="27"
+Height="30"
+
+[Sprite2]
+Left="27"
+Top="0"
+Width="24"
+Height="30"
+
+[Sprite3]
+Left="52"
+Top="0"
+Width="27"
+Height="30"
